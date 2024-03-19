@@ -1,6 +1,6 @@
 # Minimalistic Todo App
 
-### made in flutter with local data base
+### made in flutter with local database
 
 ![1](https://github.com/poteznyszymon/flutter_TODO/assets/77408864/19b064be-2ff2-4049-bd7d-0bd606049bd7)
 
