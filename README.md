@@ -1,16 +1,10 @@
-# todo_app
+# Minimalistic Todo App
 
-A new Flutter project.
+### made in flutter with local data base
 
-## Getting Started
+![1](https://github.com/poteznyszymon/flutter_TODO/assets/77408864/19b064be-2ff2-4049-bd7d-0bd606049bd7)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/poteznyszymon/flutter_TODO/assets/77408864/abbd7ea1-32c5-487c-a3e5-a99b1bec7cc4)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/poteznyszymon/flutter_TODO/assets/77408864/3bfc7dbf-17d4-455b-9a23-3da9aebb233f)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
