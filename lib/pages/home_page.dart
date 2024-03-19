@@ -49,9 +49,11 @@ class _HomePageState extends State<HomePage> {
 
   void addTask() {
     setState(() {
-      db.Tasks.add([_taskname.text, false]);
+      if (_taskname.text != '') {
+        db.Tasks.add([_taskname.text, false]);
+        db.updateData();
+      }
     });
-    db.updateData();
     _taskname.clear();
     Navigator.pop(context);
   }
